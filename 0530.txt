@@ -1,0 +1,120 @@
+=======================================================================================================
+Rozkład jazdy aktualnego kursu
+=======================================================================================================
+
+-------------------------------------------------------------------------------------------------------
+                                  Przyjazd  Przyjazd  Przyjazd  Odjazd  Odjazd  Odjazd
+  Nazwa przystanku  planowany  rzeczywisty  różnica  planowany  rzeczywisty  różnica  Status
+-------------------------------------------------------------------------------------------------------
+  ZDiTM Limanowskiego (ZEA-1)                                   23:37:00  23:37:12  00:00:12  OK
+  Limanowskiego Zajezdnia ZDiTM   23:39:00  23:37:49 -00:01:11                                OK
+
+
+-------------------------------------------------------------------------------------------------------
+                                  Przyjazd  Przyjazd  Przyjazd  Odjazd  Odjazd  Odjazd
+  Nazwa przystanku  planowany  rzeczywisty  różnica  planowany  rzeczywisty  różnica  Status
+-------------------------------------------------------------------------------------------------------
+  Limanowskiego Zajezdnia ZDiTM                                 23:42:00  23:41:56 -00:00:04  OK
+  Limanowskiego-Grunwaldzka                                     23:43:00  23:42:34 -00:00:26  OK
+  Felinskiego-Kopcinskiego        23:44:00  23:43:23 -00:00:37  23:44:00  23:43:46 -00:00:14  OK
+  Felinskiego-Brzezinska          23:45:00  23:44:59 -00:00:01  23:45:00  23:45:17  00:00:17  OK
+  Felinskiego-Sucharskiego                                      23:46:00  23:45:32 -00:00:28  OK
+  Felinskiego-Karcinskiego                                      23:47:00  23:46:39 -00:00:21  OK
+  Karcinskiego                                                  23:48:00  23:46:57 -00:01:03  OK
+  Osiedle Msciecino               23:49:00  23:47:53 -00:01:07  23:49:00  23:49:08  00:00:08  OK
+  Zarzewska                                                     23:50:00  23:49:53 -00:00:07  OK
+  Obywatelska Ogrody Dzia3kowe    23:51:00  23:51:16  00:00:16  23:51:00  23:51:35  00:00:35  OK
+  Obywatelska                     23:52:00  23:52:27  00:00:27  23:52:00  23:52:43  00:00:43  OK
+  Przesocin                                                     23:53:00  23:53:11  00:00:11  OK
+  Centralna nz                                                  23:54:00  23:53:36 -00:00:24  OK
+  Lesna nz                                                      23:55:00  23:54:22 -00:00:38  OK
+  Kredowa-Al. Pilsudskiego nz                                   23:56:00  23:55:01 -00:00:59  OK
+  Lesno Gorne                                                   23:57:00  23:56:56 -00:00:04  OK
+  Starzynskiego                                                 23:58:00  23:59:34  00:01:34  OK
+  Dabrowka ul. Goleniowska                                      00:-1:00  00:00:01  00:01:01  OK
+  Dabrowka ul. Wojska Polskiego                                 00:00:00  00:00:29  00:00:29  OK
+  Dabrowka-Al. Solidarnosci                                     00:01:00  00:00:49 -00:00:11  OK
+  Dabrowka ul. Brauna 75B                                       00:02:00  00:01:39 -00:00:21  OK
+  Stolczyn ul. Janosika-Rataja    00:03:00  00:02:07 -00:00:53  00:03:00  00:02:28 -00:00:32  OK
+  Stolczyn ul. Janosika 21                                      00:04:00  00:03:16 -00:00:44  OK
+  Stolczyn ul. Janosika 84a                                     00:05:00  00:03:47 -00:01:13  OK
+  Jordanow ul. Wapienna-Szczecin                                00:06:00  00:04:49 -00:01:11  OK
+  Jordanow ul. Wapienna-Biegunow  00:07:00  00:05:23 -00:01:37  00:07:00  00:05:57 -00:01:03  OK
+  Ostrow ul. Sporna-Strykowska    00:08:00  00:07:05 -00:00:55  00:08:00  00:07:33 -00:00:27  OK
+  Ostrow                          00:09:00  00:08:25 -00:00:35  00:09:00  00:08:48 -00:00:12  OK
+  Paprotnia I nz                                                00:11:00  00:10:23 -00:00:37  OK
+  Natolin nz                                                    00:12:00  00:10:55 -00:01:05  OK
+  DK79 Teolin nz                  00:13:00  00:12:08 -00:00:52  00:13:00  00:12:33 -00:00:27  OK
+  DK79 Nowy Janow nz                                            00:14:00  00:13:43 -00:00:17  OK
+  DK79 Czaplice-Kurki nz                                        00:15:00  00:15:22  00:00:22  OK
+  DK79 Wiktorowo nz                                             00:16:00  00:15:59 -00:00:01  OK
+  DK79 Ulatowo-Borzuchy nz                                      00:17:00  00:16:30 -00:00:30  OK
+  DP588 Gloskow nz                00:18:00  00:17:51 -00:00:09  00:18:00  00:18:10  00:00:10  OK
+  Zlotoklos                       00:20:00  00:19:29 -00:00:31                                OK
+
+-------------------------------------------------------------------------------------------------------
+                                  Przyjazd  Przyjazd  Przyjazd  Odjazd  Odjazd  Odjazd
+  Nazwa przystanku  planowany  rzeczywisty  różnica  planowany  rzeczywisty  różnica  Status
+-------------------------------------------------------------------------------------------------------
+  Zlotoklos                                                     00:21:00  00:21:55  00:00:55  OK
+  ZDiTM Limanowskiego (ZEA-1)     00:46:00  00:44:28 -00:01:32                                OK
+
+-------------------------------------------------------------------------------------------------------
+                                  Przyjazd  Przyjazd  Przyjazd  Odjazd  Odjazd  Odjazd
+  Nazwa przystanku  planowany  rzeczywisty  różnica  planowany  rzeczywisty  różnica  Status
+-------------------------------------------------------------------------------------------------------
+  ZDiTM Limanowskiego (ZEA-1)                                   04:37:00  04:37:25  00:00:25  OK
+  Limanowskiego Zajezdnia ZDiTM   04:39:00  04:38:04 -00:00:56                                OK
+
+
+-------------------------------------------------------------------------------------------------------
+                                  Przyjazd  Przyjazd  Przyjazd  Odjazd  Odjazd  Odjazd
+  Nazwa przystanku  planowany  rzeczywisty  różnica  planowany  rzeczywisty  różnica  Status
+-------------------------------------------------------------------------------------------------------
+  Limanowskiego Zajezdnia ZDiTM                                 04:42:00  04:42:38  00:00:38  OK
+  Limanowskiego-Grunwaldzka                                     04:43:00  04:43:20  00:00:20  OK
+  Felinskiego-Kopcinskiego        04:44:00  04:44:47  00:00:47  04:44:00  04:45:11  00:01:11  OK
+  Felinskiego-Brzezinska                                        04:45:00  04:46:05  00:01:05  OK
+  Felinskiego-Sucharskiego        04:46:00  04:46:18  00:00:18  04:46:00  04:46:37  00:00:37  OK
+  Felinskiego-Karcinskiego        04:47:00  04:47:11  00:00:11  04:47:00  04:47:37  00:00:37  OK
+  Karcinskiego                    04:48:00  04:47:54 -00:00:06  04:48:00  04:48:12  00:00:12  OK
+  Osiedle Msciecino               04:49:00  04:49:04  00:00:04  04:49:00  04:49:38  00:00:38  OK
+  Zarzewska                                                     04:50:00  04:50:19  00:00:19  OK
+  Obywatelska Ogrody Dzia3kowe                                  04:51:00  04:51:29  00:00:29  OK
+  Obywatelska                     04:52:00  04:52:17  00:00:17  04:52:00  04:52:35  00:00:35  OK
+  Przesocin                                                     04:53:00  04:53:04  00:00:04  OK
+  Centralna nz                    04:54:00  04:53:33 -00:00:27  04:54:00  04:53:54 -00:00:06  OK
+  Lesna nz                                                      04:55:00  04:54:43 -00:00:17  OK
+  Kredowa-Al. Pilsudskiego nz                                   04:56:00  04:55:03 -00:00:57  OK
+  Lesno Gorne                     04:57:00  04:56:07 -00:00:53  04:57:00  04:56:40 -00:00:20  OK
+  Starzynskiego                                                 04:58:00  04:58:04  00:00:04  OK
+  Dabrowka ul. Goleniowska                                      04:59:00  04:58:33 -00:00:27  OK
+  Dabrowka ul. Wojska Polskiego                                 05:00:00  04:59:09 -00:00:51  OK
+  Dabrowka-Al. Solidarnosci       05:01:00  04:59:27 -00:01:33  05:01:00  05:00:54 -00:00:06  OK
+  Dabrowka ul. Brauna 75B         05:02:00  05:01:47 -00:00:13  05:02:00  05:02:08  00:00:08  OK
+  Stolczyn ul. Janosika-Rataja                                  05:03:00  05:02:38 -00:00:22  OK
+  Stolczyn ul. Janosika 21                                      05:04:00  05:03:17 -00:00:43  OK
+  Stolczyn ul. Janosika 84a                                     05:05:00  05:03:45 -00:01:15  OK
+  Jordanow ul. Wapienna-Szczecin                                05:06:00  05:04:48 -00:01:12  OK
+  Jordanow ul. Wapienna-Biegunow                                05:07:00  05:05:19 -00:01:41  OK
+  Ostrow ul. Sporna-Strykowska                                  05:08:00  05:07:04 -00:00:56  OK
+  Ostrow                          05:09:00  05:08:00 -00:01:00  05:09:00  05:08:40 -00:00:20  OK
+  Paprotnia I nz                                                05:11:00  05:10:25 -00:00:35  OK
+  Natolin nz                                                    05:12:00  05:10:53 -00:01:07  OK
+  DK79 Teolin nz                                                05:13:00  05:12:07 -00:00:53  OK
+  DK79 Nowy Janow nz                                            05:14:00  05:12:50 -00:01:10  OK
+  DK79 Czaplice-Kurki nz                                        05:15:00  05:13:31 -00:01:29  OK
+  DK79 Wiktorowo nz                                             05:16:00  05:14:09 -00:01:51  OK
+  DK79 Ulatowo-Borzuchy nz                                      05:17:00  05:14:41 -00:02:19  Za wczesnie
+  DP588 Gloskow nz                                              05:18:00  05:16:51 -00:01:09  OK
+  Zlotoklos                       05:20:00  05:18:13 -00:01:47                                OK
+
+
+
+-------------------------------------------------------------------------------------------------------
+                                  Przyjazd  Przyjazd  Przyjazd  Odjazd  Odjazd  Odjazd
+  Nazwa przystanku  planowany  rzeczywisty  różnica  planowany  rzeczywisty  różnica  Status
+-------------------------------------------------------------------------------------------------------
+  Zlotoklos                                                     05:21:00  05:22:06  00:01:06  OK
+  ZDiTM Limanowskiego (ZEA-1)     05:46:00  05:45:16 -00:00:44                                OK
+
